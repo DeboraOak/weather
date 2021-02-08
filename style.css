@@ -26,17 +26,6 @@ body{
     height: 90vh;
 }
 
-.title {  
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    width: 100%;
-    height: 7.5rem;
-    
-    color: #000;
-    background-color:#68CCEA;
-}
 
 .search {
     display: flex;
