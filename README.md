@@ -1,4 +1,4 @@
-# weather
+# Weather
  AEVO challenge weather web application.
 
 ## What is this app
