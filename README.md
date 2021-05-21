@@ -1,7 +1,7 @@
 # Weather
  AEVO challenge weather web application.
 
-## What is this app
+## What is this website
 - This is a web application to consulte the current city weather.
 
 ## How to use
